@@ -11,6 +11,8 @@ Está Aplicação sobre tarefas foi feita no dia 08/12/2022 utilizando:
 - sequelize
 - session-file-store
 
+que são frameworks e libs que nos ajudam a programar com a linguagem do Javascript
+
 Para utiliza-la é necessário ativar o banco de dados mysql. Para montar eu utilizei o Xampp.
 As informações do banco está no arquivo conn.js na pasta db.
 
