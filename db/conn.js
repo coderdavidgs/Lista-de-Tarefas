@@ -1,5 +1,6 @@
 const {Sequelize} = require('sequelize')
 
+//you will need create a new database with name 'tasks'
 const sequelize = new Sequelize('tasks', 'root', '', {
     host: 'localhost',
     dialect: 'mysql',
